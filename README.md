@@ -17,10 +17,10 @@ Just enter student names or roll numbers, set the group size, and get random gro
 ##  How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/Random-Group-Maker.git
+   https://github.com/titu46/Groupify.git
    
-   -cd Random-Group-Maker
-   -python group_maker.py
+   -cd Groupify
+   -python Groupify.py
 ---
 
 Requirements
@@ -28,4 +28,5 @@ Requirements
 Python 3.x
 
 Tkinter (comes pre-installed with Python)
+
 
